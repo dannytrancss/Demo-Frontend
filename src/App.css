@@ -206,15 +206,19 @@ header
 Agents
 -------
 */
-.contactBlock .ant-form {
+.agent-block .ant-form {
   max-width: 640px;
   margin: auto;
   padding-top: 25px;
 }
 
-.contactBlock .ant-form textarea {
+.agent-block .ant-form textarea {
   min-height: 120px;
   height: 120px;
+}
+
+.agent-block-save{
+  margin-right: 10px;
 }
 
 /* 
